@@ -1,0 +1,14 @@
+.env
+.env.*
+!.env.example
+
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+**/notes.json
+*.log
+
+.ipynb_checkpoints/
+.DS_Store
